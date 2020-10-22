@@ -2,16 +2,16 @@
   margin-left: 4%}
 
         header{display:grid;
-        grid-template-columns: 2% 80%;
+        grid-template-columns: 2% 90%;
         grid-template-rows: minmax(40%, auto);
-        margin: 3% 23.4% 1% 0%;
+        margin: 3% 4% 1% 0%;
         color: gold;
         background-color:black;
         padding: 1% 1%;}
 
          main{
         display:grid;
-        grid-template-columns: 55% 45%;
+        grid-template-columns: 80% 19%;
         grid-template-rows: minmax(25%, auto);
 
         }
@@ -20,11 +20,11 @@
         background-color:grey;
         color:gold;
         padding: 3% 2% 3% 3%;
-         font-size:0.98em
+         font-size:1em
          }
         #di {
         height:75%;
-        margin: 2% 10% 2% 2%}
+        margin: 8.3% 2% 2% 2%}
 
         .txt{
         color:black;
@@ -39,7 +39,7 @@
 
         nav{
         display:grid;
-        grid-template-columns:repeat(5, 17%);
+        grid-template-columns:repeat(5, 20%);
         }
 
 
